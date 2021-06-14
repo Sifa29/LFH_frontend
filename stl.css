@@ -1,0 +1,47 @@
+
+body{
+    background-color: rgb(252, 176, 214);
+}
+
+h1{
+    color: rgb(154, 218, 186);
+}
+h3{
+        text-justify: auto;
+        color: maroon;
+        text-align: left;
+        
+    }
+
+}
+p{
+    text-align: center;
+    text-justify: auto;
+    text-size-adjust: 200;
+}
+h5{
+    color: white;
+    text-align: left;
+}
+video{
+   float:right;
+   size: "500";
+}
+table {
+    table-layout: auto;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: "900";
+    
+    
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
